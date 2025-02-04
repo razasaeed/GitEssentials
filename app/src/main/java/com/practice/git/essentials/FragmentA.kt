@@ -24,7 +24,5 @@ class FragmentA : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         Toast.makeText(context, "Sample toast", Toast.LENGTH_SHORT).show()
-
-        // asdfjhdshfjksfhksdhfksd
     }
 }

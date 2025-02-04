@@ -11,13 +11,6 @@ class FragmentB(context: Context) {
 
         Log.d("testabc", "test")
         Log.d("testabc", "test")
-        Log.d("testabc", "test")
-        Toast.makeText(context, "Test Fragment B", Toast.LENGTH_SHORT).show()
-        Toast.makeText(context, "Test Fragment B", Toast.LENGTH_SHORT).show()
-        Toast.makeText(context, "Test Fragment B", Toast.LENGTH_SHORT).show()
-        Toast.makeText(context, "Test Fragment B", Toast.LENGTH_SHORT).show()
-        Toast.makeText(context, "Test Fragment B", Toast.LENGTH_SHORT).show()
-        Toast.makeText(context, "Test Fragment B", Toast.LENGTH_SHORT).show()
     }
 
 }
